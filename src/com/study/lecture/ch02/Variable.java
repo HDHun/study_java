@@ -12,6 +12,12 @@ public class Variable {
 		// 첫글자 소문자 그리고 다음 문자열 부터는 대문자
 		// 모든 변수명은 붙여서 사용
 		// 대소문자 구분함
+		
+//		fullName 카멜표기법 변수.함수
+//		full_name 스네이크법 db
+//		FullName 파스칼
+		
+		
 		/*
 		 * String fullName = "Donghun Han"; String name = "Donghun";
 		 * 
