@@ -27,9 +27,9 @@ public class ConditionLoop {
 //			
 //			
 //		반복문
-//			for
+//			for : 끝을 정해두고 반복 수행하는 구문
 //			
-//			while
+//			while : 무한루프
 //				
 //			do-while
 //				
