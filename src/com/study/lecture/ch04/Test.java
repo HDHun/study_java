@@ -12,12 +12,14 @@ public class Test {
 				int sum = i*j;
 				int sum1 = 0;
 				
-				if(sum/2 == 0)
+				if(sum/2 == 0) {
 				
 				System.out.println(sum + sum1);
 				
 			}
-				} 
+				} else {
+					
+				}
 				
 				
 			}
