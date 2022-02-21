@@ -5,9 +5,9 @@ public class CarExample {
 	public static void main(String[] args) {
 
 
-		Car car = new Car();
+		Car car = new Car(); // 생성자
 		
-//		객체접근연산자를 사용하여 car 객체변수의 값을 참조
+//		객체접근연산자(.)를 사용하여 car 객체변수의 값을 참조
 		System.out.println("company: " + car.company);
 		System.out.println("model: " + car.model);
 		System.out.println("color: " + car.color);
