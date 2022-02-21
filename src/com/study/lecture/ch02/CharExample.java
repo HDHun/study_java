@@ -7,7 +7,7 @@ public class CharExample {
 
 				char c1 = 'A'; // 문자를 직접 저장
 				char c2 = 65; //십진수로 저장
-				char c3 = '\u0041'; //16진수로 저장 :\u : 16진수를 나타내는 이스케이프 문자
+//				char c3 = '\u0041'; //16진수로 저장 : \ u  : 16진수를 나타내는 이스케이프 문자
 				
 				char c4 = '가';
 				char c5 = 44032;
@@ -18,7 +18,7 @@ public class CharExample {
 		
 				System.out.println(c1);
 				System.out.println(c2);
-				System.out.println(c3);
+//				System.out.println(c3);
 				System.out.println(c4);
 				System.out.println(c5);
 				System.out.println(c6);
