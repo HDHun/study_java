@@ -6,3 +6,4 @@ public class Constants {
 	Double PAI_2 = 3.14159265358979323846;
 	
 }
+
