@@ -14,7 +14,7 @@ public interface RemoteControl {
 	void turnOff();
 	void setVolume(int volume);
 	// 디폴트 메소드 : public 생략가능
-	public default void setMite(boolean mute) {
+	public default void setMute(boolean mute) {
 		if(mute) {
 			System.out.println("무음");
 		} else {
