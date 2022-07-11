@@ -77,9 +77,9 @@ private static void println(int add) {
 			sum2[4] = a%b;
 			
 			return sum2;
-			for(int a : allInOne(6, 3)) {
-				System.out.println(a);
-			}
+//			for(int a : allInOne(6, 3)) {
+//				System.out.println(a);
+//			}
 		}
 	}
 
